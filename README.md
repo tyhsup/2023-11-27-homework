@@ -15,7 +15,7 @@ exp : a.set_grade(72), the '72' is object grade (type : float)
 
 get_grade() : print grade for object
 
-exp : a.get_grade(), print 'a' grade, they will display 'a grade : XX'(type : str)
+exp : a.get_grade(), print 'a' grade, they will display 'a grade : XX'
 
 display_student_info() : print object information
 
